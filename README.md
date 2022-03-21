@@ -18,7 +18,7 @@
 
 ## Github Stats
 
-![gabriel654165's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel654165&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
+![gabriel654165's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel654165&layout=compact&theme=gotham)
 
 ## Usefull links
 
