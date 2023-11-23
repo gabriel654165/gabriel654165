@@ -5,16 +5,16 @@
 
 ## My principal skills
 
-<code><img src="https://blog.bracketshow.com/wp-content/uploads/2021/07/csharp.png" height="30"></code>
-<code><img src="https://i.redd.it/tu3gt6ysfxq71.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" height="25"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-cmake.svg/1200px-Breezeicons-apps-48-cmake.svg.png" height="30"></code>
-<code><img src="https://logosvector.net/wp-content/uploads/2015/07/JavaScript_logo.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" height="30"></code>
-<code><img src="https://www.freepngimg.com/download/logo/69421-logo-distribution-ubuntu-unix-linux-hd-image-free-png.png" height="30"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="28"></code>
+<code><img src="https://blog.bracketshow.com/wp-content/uploads/2021/07/csharp.png" height="60"></code>
+<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="60"></code>
+<code><img src="https://www.flareden.fr/images/hexa/c.png" height="60"></code>
+<code><img src="https://i.redd.it/tu3gt6ysfxq71.png" height="60"></code>
+<code><img src="https://www.flareden.fr/images/hexa/unreal.png" height="60"></code>
+<code><img src="https://www.flareden.fr/images/hexa/opengl.png" height="60"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" height="50"></code>
+<code><img src="https://www.flareden.fr/images/hexa/cmake.png" height="60"></code>
+<code><img src="https://www.freepngimg.com/download/logo/69421-logo-distribution-ubuntu-unix-linux-hd-image-free-png.png" height="60"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="60"></code>
 
 ## Github Stats
 
