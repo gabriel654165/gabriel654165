@@ -6,16 +6,14 @@
 ## My principal skills
 
 <code><img src="https://github.com/user-attachments/assets/f62d077c-2479-40e0-9be9-fcce16a7bc1d" height="50"></code>
-<code><img src="https://blog.bracketshow.com/wp-content/uploads/2021/07/csharp.png" height="50"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50"></code>
-<code><img src="https://www.flareden.fr/images/hexa/c.png" height="50"></code>
-<code><img src="https://i.redd.it/tu3gt6ysfxq71.png" height="50"></code>
-<code><img src="https://www.flareden.fr/images/hexa/unreal.png" height="50"></code>
-<code><img src="https://www.flareden.fr/images/hexa/opengl.png" height="50"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/1200px-Qt_logo_2016.svg.png" height="50"></code>
-<code><img src="https://www.flareden.fr/images/hexa/cmake.png" height="50"></code>
-<code><img src="https://www.freepngimg.com/download/logo/69421-logo-distribution-ubuntu-unix-linux-hd-image-free-png.png" height="50"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="50"></code>
+<code><img src="https://github.com/user-attachments/assets/aabd24bd-a9d7-4f4b-96c7-9231dbdfd971" height="50"></code>
+
+<code><img src="https://github.com/user-attachments/assets/08250337-8462-43df-8c5b-d5e6f93c42ab" height="50"></code>
+<code><img src="https://github.com/user-attachments/assets/ae3bd242-af1d-48e3-bd26-5e416166349f" height="50"></code>
+<code><img src="https://github.com/user-attachments/assets/8ae47be2-c8ec-4c06-a4f2-2bf61d3e8e00" height="50"></code>
+
+<code><img src="https://github.com/user-attachments/assets/a0b1a99c-e081-4495-aaa5-2df72e5d5ef0" height="50"></code>
+
 
 ## Github Stats
 
