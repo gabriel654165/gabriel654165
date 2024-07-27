@@ -1,5 +1,3 @@
-![unreal](https://github.com/user-attachments/assets/f32afeda-7f3f-442a-ba0b-20f1ed98b025)# Welcome to my profile !
-
 ![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
 [![GitHub followers](https://img.shields.io/github/followers/gabriel654165.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gabriel654165?tab=followers)
 
