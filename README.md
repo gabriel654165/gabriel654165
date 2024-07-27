@@ -5,6 +5,7 @@
 
 ## My principal skills
 
+<code><img src="https://github.com/user-attachments/assets/f62d077c-2479-40e0-9be9-fcce16a7bc1d" height="50"></code>
 <code><img src="https://blog.bracketshow.com/wp-content/uploads/2021/07/csharp.png" height="50"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="50"></code>
 <code><img src="https://www.flareden.fr/images/hexa/c.png" height="50"></code>
