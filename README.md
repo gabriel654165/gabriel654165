@@ -3,7 +3,9 @@
 ![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
 [![GitHub followers](https://img.shields.io/github/followers/gabriel654165.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gabriel654165?tab=followers)
 
-## My principal skills
+## Skills
+- **Languages**:
+    ![C](https://github.com/user-attachments/assets/f62d077c-2479-40e0-9be9-fcce16a7bc1d?style=for-the-badge&logo=c&logoColor=white)
 <code><img src="https://github.com/user-attachments/assets/f62d077c-2479-40e0-9be9-fcce16a7bc1d" height="50"></code>
 <code><img src="https://github.com/user-attachments/assets/aabd24bd-a9d7-4f4b-96c7-9231dbdfd971" height="50"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img src="https://github.com/user-attachments/assets/08250337-8462-43df-8c5b-d5e6f93c42ab" height="50"></code>
