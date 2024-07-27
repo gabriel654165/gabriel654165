@@ -28,8 +28,6 @@
 ## Github Stats
 
 ![gabriel654165's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel654165&langs_count=6&theme=gotham&layout=compact&hide_border=true)
-![gabriel654165's top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel654165&theme=gotham&layout=compact&hide_border=true)
-![gabriel654165's top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel654165&theme=gotham&layout=compact&hide_border=true)
 
 ## Usefull links
 
