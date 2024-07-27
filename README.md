@@ -31,5 +31,6 @@
 
 ## Usefull links
 
+[![gmail](https://img.shields.io/badge/-Gmail-red?style=flat&labelColor=white&logo=Gmail&textColor=red)](mailto:gab.mdk0077@gmail.com)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gabriel-medoukali-627746198/)
 [![youtube](https://img.shields.io/badge/Youtube-red?style=flat&logo=youtube&labelColor=red)](https://www.youtube.com/channel/UCYSM25QQt-9-ui69EIh1Qyw)
